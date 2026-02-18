@@ -1,0 +1,17 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environments
+.env
+.venv/
+venv/
